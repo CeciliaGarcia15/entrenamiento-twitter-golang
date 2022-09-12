@@ -1,9 +1,8 @@
-module entrenamiento-twitter-golang
-//lleva el nombre del repositorio el module
+module github.com/CeciliaGarcia15/entrenamiento-twitter-golang
+
 go 1.18
 
 require (
-	github.com/dgrijalva/jwt-go v3.2.0+incompatible // indirect
 	github.com/golang/snappy v0.0.1 // indirect
 	github.com/gorilla/mux v1.8.0 // indirect
 	github.com/klauspost/compress v1.13.6 // indirect
